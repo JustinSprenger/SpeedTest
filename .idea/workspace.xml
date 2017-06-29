@@ -35,9 +35,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
               <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,25 +43,25 @@
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="1836">
               <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
               <folding>
-                <marker date="1498674954821" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-                <marker date="1498674954821" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-                <marker date="1498674954821" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-                <marker date="1498674954821" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-                <marker date="1498674954821" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
+                <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
+                <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
+                <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
+                <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
@@ -82,7 +80,7 @@
       <file leaf-file-name="SpeedTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="748">
               <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
@@ -90,6 +88,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -99,10 +100,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Network.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java" />
       </list>
     </option>
   </component>
@@ -181,6 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,152 +192,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -840,11 +699,12 @@
       <workItem from="1498561033218" duration="626000" />
       <workItem from="1498597667555" duration="2572000" />
       <workItem from="1498674142636" duration="2174000" />
+      <workItem from="1498769869967" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9124000" />
+    <option name="totallyTimeSpent" value="9725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -861,7 +721,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33792374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33792374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -901,9 +761,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
+            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
+            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,22 +819,22 @@
         <state relative-caret-position="1173">
           <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
-            <marker date="1498674954821" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498674954821" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498674954821" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
+            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
+            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -952,9 +859,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -970,9 +875,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -980,9 +883,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -991,22 +892,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1498674954821" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498674954821" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498674954821" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
+            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
+            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -1023,40 +924,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="1836">
           <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
           <folding>
-            <marker date="1498674954821" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498674954821" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498674954821" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498674954821" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498674954821" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
+            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
+            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
+            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
+            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="748">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
