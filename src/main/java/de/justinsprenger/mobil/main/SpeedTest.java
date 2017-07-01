@@ -13,7 +13,7 @@ public class SpeedTest {
 		int auswahl = 0;
 		String[] arg = new String[5];
 		Read sc = new Read();
-		Database db = new Database("angewandteinfo.spdns.org",3306,"Mobile-Anwendungen","Justin","Tresor132");
+		Database db = new Database("angewandteinfo.spdns.org",3307,"Mobile-Anwendungen","Justin","Tresor132");
 		
 		System.out.println("   _____                     _   _______        _ ");
 		System.out.println("  / ____|                   | | |__   __|      | |  ");

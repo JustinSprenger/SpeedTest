@@ -24,7 +24,7 @@ public class Database {
 		this.address = add;
 		this.port = port;
 		this.database = db;
-	
+		//jdbc:mysql://localhost/db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 		
 		
 	}

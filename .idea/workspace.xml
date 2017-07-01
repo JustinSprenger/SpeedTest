@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3f698d2-298e-48f5-b5ed-37a0805e2888" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java" afterPath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java" afterPath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java" afterPath="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java" />
     </list>
     <ignored path="mobil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,35 +47,35 @@
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+            <state relative-caret-position="-280">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
-                <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-                <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-                <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-                <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-                <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+                <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+                <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+                <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+                <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Speed.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Speed.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="9">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InfoThread.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InfoThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/InfoThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -94,8 +96,8 @@
       <file leaf-file-name="SpeedTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+            <state relative-caret-position="356">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -115,8 +117,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Network.java" />
-        <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java" />
       </list>
     </option>
@@ -828,25 +830,26 @@
       <workItem from="1498597667555" duration="2572000" />
       <workItem from="1498674142636" duration="2174000" />
       <workItem from="1498769869967" duration="601000" />
-      <workItem from="1498912289683" duration="5906000" />
+      <workItem from="1498912289683" duration="10516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15631000" />
+    <option name="totallyTimeSpent" value="20241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.084375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08020833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117336154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13530655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -861,7 +864,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -899,22 +901,22 @@
         <state relative-caret-position="1836">
           <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
           <folding>
-            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+            <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+            <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -950,22 +952,22 @@
         <state relative-caret-position="1836">
           <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
           <folding>
-            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+            <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+            <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -1001,22 +1003,22 @@
         <state relative-caret-position="1173">
           <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
-            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+            <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+            <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -1076,22 +1078,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+            <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+            <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -1112,54 +1114,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/InfoThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding>
-            <marker date="1498759082862" expanded="true" signature="869:893" ph="select * fro... T_Accounts" />
-            <marker date="1498759082862" expanded="true" signature="1410:1435" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2057" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2058" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2092" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2093" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2094" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2021:2110" ph="select * fro... t_Messungen" />
-            <marker date="1498759082862" expanded="true" signature="2971:3013" ph="INSERT INTO missingValue... " />
-            <marker date="1498759082862" expanded="true" signature="3427:3464" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3478" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3498" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3499" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3500" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3513" ph="DELETE FROM " />
-            <marker date="1498759082862" expanded="true" signature="3427:3516" ph="DELETE FROM " />
-          </folding>
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/main/SpeedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+        <state relative-caret-position="356">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/InfoThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-280">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <marker date="1498922449434" expanded="true" signature="995:1019" ph="select * fro... T_Accounts" />
+            <marker date="1498922449434" expanded="true" signature="1536:1561" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2183" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2184" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2218" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2219" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2220" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="2147:2236" ph="select * fro... t_Messungen" />
+            <marker date="1498922449434" expanded="true" signature="3097:3139" ph="INSERT INTO missingValue... " />
+            <marker date="1498922449434" expanded="true" signature="3553:3590" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3604" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3624" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3625" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3626" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3639" ph="DELETE FROM " />
+            <marker date="1498922449434" expanded="true" signature="3553:3642" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/justinsprenger/mobil/database/Speed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
